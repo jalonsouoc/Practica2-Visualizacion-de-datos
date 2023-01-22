@@ -17,10 +17,10 @@ Visualización de Datos - Máster Universitario de Ciencia de Datos - Universita
 ### Enlaces 
 
 * [Proceso de transformación de los datos](https://jalonsouoc.github.io/Practica2-Visualizacion-de-datos/)
-* [Visualización de la presentación](o  https://www.canva.com/design/DAFYZp6CybU/M673xisLSqjmaqNSeqA8Cg/view#9)
+* [Visualización de la presentación](https://www.canva.com/design/DAFYZp6CybU/M673xisLSqjmaqNSeqA8Cg/view)
 * [Gráficos en función de la asignación del caso](https://public.flourish.studio/story/1807375/)
 * [Gráficos en función de la residencia del paciente](https://public.flourish.studio/story/1807478/)
-* Gráficos individuales
+* Gráficos individuales:
   * En función de la asignación del caso:
     * [Provincias](https://public.flourish.studio/visualisation/12450850/)
     * [Islas](https://public.flourish.studio/visualisation/12448231/)
