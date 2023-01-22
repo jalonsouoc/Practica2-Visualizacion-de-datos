@@ -1,8 +1,8 @@
-municipio,isla,municipio,longitud_capital,latitud_capital,poblacion
-Las Palmas de Gran Canaria,Gran Canaria,Las Palmas de Gran Canaria,-15.428533,28.125058,855521
-Puerto del Rosario,Fuerteventura,Puerto del Rosario,-13.859694,28.498774,119732
-Arrecife,Lanzarote,Arrecife,-13.546719,28.959235,155812
+municipio,isla,provincia,longitud_capital,latitud_capital,poblacion
+Las Palmas de Gran Canaria,Gran Canaria,Las Palmas,-15.428533,28.125058,855521
+Puerto del Rosario,Fuerteventura,Las Palmas,-13.859694,28.498774,119732
+Arrecife,Lanzarote,Las Palmas,-13.546719,28.959235,155812
 Santa Cruz de Tenerife,Tenerife,Santa Cruz de Tenerife,-16.254634,28.469805,928604
-San Sebastián de La Gomera,La Gomera,San Sebastián de La Gomera,-17.109706,28.090378,21678
-Santa Cruz de La Palma,La Palma,Santa Cruz de La Palma,-17.764744,28.683243,83458
-Valverde,El Hierro,Valverde,-17.914964,27.806884,11147
+San Sebastián de La Gomera,La Gomera,Santa Cruz de Tenerife,-17.109706,28.090378,21678
+Santa Cruz de La Palma,La Palma,Santa Cruz de Tenerife,-17.764744,28.683243,83458
+Valverde,El Hierro,Santa Cruz de Tenerife,-17.914964,27.806884,11147
