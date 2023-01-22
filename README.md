@@ -16,7 +16,7 @@ Visualización de Datos - Máster Universitario de Ciencia de Datos - Universita
 
 ### Web 
 
-* [Proceso de transformación de los datos](o  https://jalonsouoc.github.io/Practica2-Visualizacion-de-datos/)
+* [Proceso de transformación de los datos](https://jalonsouoc.github.io/Practica2-Visualizacion-de-datos/)
 
 ### Fuentes de datos
 
